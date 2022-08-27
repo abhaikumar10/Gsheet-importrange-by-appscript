@@ -1,4 +1,6 @@
 /////////////---Main   runner--/////////////
+//this code is associated with sample  gsheet file.
+
 function runn()  {
      const alast=dataexe();
      for(var i=2; i<=alast;i++) {
