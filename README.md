@@ -6,11 +6,13 @@ Copy data from one google sheet to another App Script without fail #ref error.
 1. Open a google sheet.
 2. Goto tools>app script
 3. Add script id to add library section : v3 **1IV7T2BPRuka-NIgvqh0ksSA_f9HrlPy_dmKZnoF9QlcIv6bx6D19CG5A**
+4. 
                                           v4 AKfycbzVPQcET6-t_5UleB4woKZiQkBVDr-6y-b7hfXbO8efbfWnFZauNZc_eSN1YfuKAyOh
 5. Embed sheets & namerange location similarly to Sample excel or Set manually variables of sheet ids & their name ranges
 6. Run code.
 
 v3: [https://script.google.com/macros/library/d/1IV7T2BPRuka-NIgvqh0ksSA_f9HrlPy_dmKZnoF9QlcIv6bx6D19CG5A/1](url)
+
 v4: https://script.google.com/macros/library/d/1IV7T2BPRuka-NIgvqh0ksSA_f9HrlPy_dmKZnoF9QlcIv6bx6D19CG5A/4
 
 Use function as per requirement.
